@@ -22,4 +22,7 @@ int main(){
      mhs.nama = "abra";
      mhs.nilai = 90.5;
 
+     mhs.prindata();
     
+   
+}
